@@ -1,0 +1,7 @@
+<div class="max-w-7xl m-auto p-2">
+        <div class="flex bg-slate-100">
+            <a href="index.html" class="text-xl mx-3 font-bold"><span class="hover:underline">Home</span><i
+                    class="ri-home-2-line"></i> /</a>
+            <h3 class="text-xl xl:text-3xl font-bold underline text-orange-500 italic">Login</h3>
+        </div>
+    </div>

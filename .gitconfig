@@ -1,0 +1,7 @@
+[user] 
+    email = pnabin225@gmail.com
+    name = Nabin Poudel
+
+[core]
+    editor = code -- wait
+    autocrlf = input
